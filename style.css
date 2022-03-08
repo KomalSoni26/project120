@@ -1,0 +1,31 @@
+#title{
+   color:red;
+}
+body{
+    text-align: center;
+}
+.heading{
+    float:left;
+}
+.box{
+    background-color: rgb(141, 141, 148);
+    margin: 100px;
+    border: 5px;
+    height: 300px;
+   
+}
+.box img{
+    width:150px;
+    height: 250px;
+}
+.abab1{
+    background: yellow;
+    width:250px;
+    border-radius: 5px;
+    margin-right: 50px;
+}
+.abab2{
+    background: yellow;
+    width:250px;
+    border-radius: 5px;
+}
